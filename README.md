@@ -1,8 +1,8 @@
 # estebanc.github.io
 Portafolio de Proyectos 
-# ¡Hola! Soy Esteban 👋
+# ¡Hola! Soy Esteban 
 
-![Tu Foto](link-de-tu-foto.jpg)
+
 
 Desarrollador en formación | Egresado de **TripleTen**
 Ubicado en Colombia. Me apasiona el desarrollo de software y la resolución de problemas mediante código.
